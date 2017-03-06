@@ -20,7 +20,7 @@ Date Submitted: March 5, 2017
 - We will communicate through GroupMe as needed, and we are on task.
 
 **Group Problems:**
-We are a little confused about the project. This will take some time getting used too, but we will be able to help each other and ask questions as needed. Also with time we will gain confidence in using programs such as Github. This week with using Slack, we did not have easy conversation. Hopefully by using GroupMe this issue will be fixed in the future. 
+We are a little confused about the project. This will take some time getting used too, but we will be able to help each other and ask questions as needed. Also with time we will gain confidence in using programs such as Github. This week with using Slack, we did communicate very well. I think by using GroupMe that will solve this problem, as we will recieve notifications to a plaform we normally use. 
 
 **Late Status Reports:**
 - All team members were communciated with.
