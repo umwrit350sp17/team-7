@@ -10,7 +10,7 @@
 
 **Personal Goals:**
 - David: I hope to learn and get and gain new experience with technological platforms.  I hope to improve my abilities with github and other resources that we will be using over this project.
-- Evelyn: I hope to learn more about the new platform I will be working with. I also hope to learn how to better collaborate tiwth a team through technological means. I also hope to learn more about what we plan to do our project on and how it can benefit me as a student. 
+- Evelyn: I hope to learn more about the new platform I will be working with. I also hope to learn how to better collaborate with a team through technological means. I also hope to learn more about what we plan to do our project on and how it can benefit me as a student. 
 - Sarah: I hope to gain new expierence with Github and other technological platforms. I also hope to learn about the source we do out project on and learn to use it for my feature college career. 
 
 **Individual Commitment:**
