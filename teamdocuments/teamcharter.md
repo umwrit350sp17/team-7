@@ -10,12 +10,12 @@
 
 **Personal Goals:**
 - David: I hope to learn and get and gain new experience with technological platforms.  I hope to improve my abilities with github and other resources that we will be using over this project.
-- Evelyn:
+- Evelyn: I hope to learn more about the new platform I will be working with. I also hope to learn how to better collaborate tiwth a team through technological means. I also hope to learn more about what we plan to do our project on and how it can benefit me as a student. 
 - Sarah: I hope to gain new expierence with Github and other technological platforms. I also hope to learn about the source we do out project on and learn to use it for my feature college career. 
 
 **Individual Commitment:**
 - David:  I will commit to working my hardest and doing my best in everything I do.  I out of town most weekends.  I have no classes on Tuesday or Thursday.  I can be free most nights during the week.  Tuesday nights is the only night where I am busy all night.
-- Evelyn:
+- Evelyn: I will commit my time that I am not in classes to focusing on the project. I am open usually on the weekends and most week nights. I will meet all deadlines and put a lot of effort into my work. 
 - Sarah: I am the team captain, and I will commit to anything as long as the work is evenly distributed. I am out of town most weekends, but still have access to my computer. So, if a meeting is ever needed I would usually on be available Monday-Thursday.
 
 **Other Concerns:**
