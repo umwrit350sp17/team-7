@@ -7,7 +7,7 @@ We are communicating thorough GroupMe and creating our progress report and outli
 
 Unfinished Tasks:
 
-The outline is in progress.
+The outline is in progress, but will be finished by Sunday March 18th. 
 
 Schedule Revisions:
 
