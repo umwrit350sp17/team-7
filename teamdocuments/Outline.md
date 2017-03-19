@@ -22,7 +22,19 @@ Project: How to use Laverna as a college student
 - we will be using screen shots from the Laverna web page in order to better depict our instructions
 - We will not be using any external information, besides possibly infromation from DropBox on how to set up an account, otherwise all information will come from Laverna
 
-### **Folders Within Team 7 GitHub for Instruction**
+### **Topics to Discuss Within Instructions**
+              (Possible Folders)
+- How to Download Laverna
+- How to Set up a DropBox account
+- How to Create a Notebook
+- How to access a Notebook
+- How to access all Notes
+- How to edit existing text
+- How to format text
+- How to Access Settings and what can be found within settings
+- How to add encryption
 
-- 
+### ** Conclusion**
+
+Laverna is a tool that many will be able to find useful when transporting notes around campus and outside of campus as a college student. As the instructions will show it is very striaght forward and easy to use. This program can be used on many differnt operating systems which makes it very easy for a wide range of college students to use.
 
