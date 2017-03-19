@@ -24,6 +24,7 @@ Project: How to use Laverna as a college student
 
 ### **Topics to Discuss Within Instructions**
               (Possible Folders)
+- Introduction to the Laverna Program
 - How to Download Laverna
 - How to Set up a DropBox account
 - How to Create a Notebook
@@ -33,6 +34,10 @@ Project: How to use Laverna as a college student
 - How to format text
 - How to Access Settings and what can be found within settings
 - How to add encryption
+
+- As of right now, this is an order in which we think that the folders would flow nicely. When many people set up it instructs you about encryption, so instructions are really only needed if one decided to add encryption at a later time. In the begining the program is very self explainatory but once the account is set up is one one might need some more detailed instruction
+- To demonsrate how to use this program, one person within our group will create an account and screenshot differnt parts of the instructions. 
+- Our very first folder will include an introductino to the program, including screen shots of the program home page so users will know they are at the right site
 
 ### ** Conclusion**
 
