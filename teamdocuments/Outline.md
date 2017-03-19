@@ -14,3 +14,15 @@ A program such as Laverna, has a smartphone app and can be accessed online, and 
 
 ## **Project Outline:**
 
+Project: How to use Laverna as a college student
+
+#### **Introduction**
+- our team has decided that we will organize out steps within multiple folders instead of one large folder
+- we belive this will be the easiest way for users to find directions
+- we will be using screen shots from the Laverna web page in order to better depict our instructions
+- We will not be using any external information, besides possibly infromation from DropBox on how to set up an account, otherwise all information will come from Laverna
+
+### **Folders Within Team 7 GitHub for Instruction**
+
+- 
+
