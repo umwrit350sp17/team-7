@@ -12,5 +12,5 @@ John Doe decided that the best way to keep track of his notes, and have them ava
 
 A program such as Laverna, has a smartphone app and can be accessed online, and synched through programs such as DropBox. This allows for college students to access documents in their dorm rooms, computer labs, and even as they are riding the bus to class. The program allows for students to create different notebooks. So, different class notes can be divided, and students can remain organized even on the web. Laverna allows John Doe and all other college students access to their notes anywhere at anytime, while staying organized. 
 
-## **Project Outline**
+## **Project Outline:**
 
