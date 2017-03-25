@@ -20,4 +20,5 @@ After you have assigned your note a title and assigned the note to a notebook, y
 <br><br>
 <br><br>
 Finally, you will want to save the note. To do this find the save button in the upper left hand corner of the window. The save button is pictured below:
+<br><br>
 ![insert picture](assets/9.png)
