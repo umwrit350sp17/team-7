@@ -16,6 +16,7 @@ To the right of the window, the below will appear. Click the dropdown box of "cl
 <br><br>
 <br><br>
 Then go to the upper right hand corner of the window, and look for the "save" and "close" buttons. Click the "save" button, then the "close" button.
+<br><br>
 ![insert picture](assets/27.png)
 <br><br>
 <br><br>
