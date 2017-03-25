@@ -21,5 +21,5 @@ Look for the bar below in the middle of the screen
 <br><br>
 <br><br>
 <br><br>
-Remember to click save to save any text you might have formatted. 
+Remember to click save, to save any text you might have formatted. 
 
