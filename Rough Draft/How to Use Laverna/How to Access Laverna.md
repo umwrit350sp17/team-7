@@ -1,5 +1,6 @@
 The very first step to accessing Laverna is going to the website. The website is bellow:
 <br><br>
+<br><br>
 ![insert picture](assets/2.png)
 <br><br>
 <br><br>
