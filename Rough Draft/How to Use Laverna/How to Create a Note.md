@@ -1,4 +1,4 @@
-To create a note within Lavera, click on the reb box plus image. 
+To create a note within Lavera, click on the red box plus image. 
 <br><br>
 ![insert picture](assets/6.png)
 <br><br>
