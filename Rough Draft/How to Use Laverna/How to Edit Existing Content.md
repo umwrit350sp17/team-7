@@ -10,5 +10,5 @@ You will then be given access to edit the existing note. Remember to type in the
 ![insert picture](assets/20.png)
 <br><br>
 <br><br>
-After you have edited the note, youc can either save your changes or delete them. These twho options can be found in the upper right corner of the window. Click "cancel" to disgard your changes and "save" to save the changes you made.
+After you have edited the note, youc can either save your changes or delete them. These two options can be found in the upper right corner of the window. Click "cancel" to disgard your changes and "save" to save the changes you made.
 ![insert picture](assets/18.png)
