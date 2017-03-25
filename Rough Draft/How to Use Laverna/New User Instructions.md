@@ -9,5 +9,5 @@ You will then be given this screen. This is asking you if you would like to add 
 <br><br>
 <br><br>
 <br><br>
-If you choose to sync your notes, you can either sync your notes through DropBox or RemoteStorage. You can also click no if you would not like to sync your notes. This feature can also be added at a later time. Instructions to setting up a DropBox account will be in the "Other Help" folder. You can also find instructions to syncing your account after setup in the "Other Help" folder. 
+If you choose to sync your notes, you can either sync your notes through DropBox or RemoteStorage. You can also click no if you would not like to sync your notes. This feature can also be added at a later time. Instructions to setting up a DropBox account will be in the "Other Help" folder. You can also find instructions to syncing your account after setup in the "Other Help" folder. For now click no, as not everyone will want to sync their notes, and once again this feature can be set up at a later time.
 ![insert picture](assets/5.png)
