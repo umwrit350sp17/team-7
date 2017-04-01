@@ -11,4 +11,4 @@ This folder contains step by step instructions on how to use Laverna throughout 
 [How to Delete a Note](2.8-How%to%Delete%a%Note.md)  
 [How to Format Text](2.9-How%to%Format%Text.md)  
 
-[How to Access Laverna][refrence id for instructions https://github.com/umwrit350sp17/team-7/blob/master/Rough%20Draft/How%20to%20Use%20Laverna/2.2-New%20User%20Instructions.md] 
+
