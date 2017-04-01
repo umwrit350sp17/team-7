@@ -4,6 +4,7 @@ This folder contains step by step instructions on how to use Laverna throughout 
 [How to Access Lavena](2.1-How%to%Access%Laverna.md)
 
 [New User Instructions](2.2-New%User%Instructions.md)
+
 [How to create a note](2.3-How%to%Create%a%Note.md)  
 [How to Create a Notebook](2.4-How%to%Create%a%Notebook.md)  
 [How to Access a Notebook](2.5-How%to%Access%a%Notebook.md)  
