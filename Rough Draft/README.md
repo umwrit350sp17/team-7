@@ -1,2 +1,2 @@
 
-This is our first rough draft- due on March 26, 2017
+This folder is a series of instructions to help college students navigate the program, Laverna. 
