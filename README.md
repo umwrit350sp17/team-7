@@ -6,6 +6,6 @@ Contributers:
 
 David Gladney:
 
-Evelyn Huckaby:
+Evelyn Huckaby: I am a senior at Ole Miss and will graduate in May of this year. I am a Psychology major with a minor in Sociology. I learned a lot through using Github and was able to understand it's function in the writing world.
 
 Sarah Riley: I am currently a junior at the University of Mississippi minoring in professional writing. Through Github, I am expanding my expierences as a technical writer to further my career. 
