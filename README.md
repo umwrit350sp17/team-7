@@ -4,7 +4,7 @@ Team 7 researched an open source program known as Laverna. Laverna is a great to
 
 Contributers:
 
-David Gladney:
+David Gladney: I am a junior at Ole Miss but I will graduate this upcoming December.  I am a psychology major with a minor in professional writting.  Through using Github, I got to advance my abilities in technical writing. 
 
 Evelyn Huckaby: I am a senior at Ole Miss and will graduate in May of this year. I am a Psychology major with a minor in Sociology. I learned a lot through using Github and was able to understand it's function in the writing world.
 
